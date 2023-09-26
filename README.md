@@ -1,4 +1,4 @@
-# purescript-fetch-core
+# purescript-js-fetch
 
 [![Latest release](http://img.shields.io/github/release/purescript-contrib/purescript-js-fetch.svg)](https://github.com/purescript-contrib/purescript-js-fetch/releases)
 [![Build status](https://github.com/purescript-contrib/purescript-js-fetch/workflows/CI/badge.svg?branch=master)](https://github.com/purescript-contrib/purescript-js-fetch/actions?query=workflow%3ACI+branch%3Amaster)
