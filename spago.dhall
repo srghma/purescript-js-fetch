@@ -1,4 +1,4 @@
-{ name = "fetch-core"
+{ name = "js-fetch"
 , dependencies =
   [ "arraybuffer-types"
   , "arrays"
