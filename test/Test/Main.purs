@@ -4,7 +4,6 @@ import Prelude
 
 import Control.Promise as Promise
 import Data.HTTP.Method (Method(..))
-import Debug (spy)
 import Effect (Effect)
 import Effect.Aff (launchAff_)
 import Effect.Class (liftEffect)

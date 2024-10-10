@@ -31,7 +31,6 @@ package:
       - aff
       - aff-promise
       - console
-      - debug
       - effect
       - unsafe-coerce
 workspace:
