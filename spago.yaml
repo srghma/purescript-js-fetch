@@ -1,0 +1,40 @@
+package:
+  name: js-fetch
+  publish:
+    license: MIT
+    version: 0.2.1
+    location:
+      githubOwner: purescript-contrib
+      githubRepo: purescript-js-fetch
+  dependencies:
+    - arraybuffer-types
+    - arrays
+    - effect
+    - foldable-traversable
+    - foreign
+    - foreign-object
+    - functions
+    - http-methods
+    - js-promise
+    - maybe
+    - newtype
+    - prelude
+    - record
+    - tuples
+    - typelevel-prelude
+    - unfoldable
+    - web-file
+    - web-streams
+  test:
+    main: Test.Main
+    dependencies:
+      - aff
+      - aff-promise
+      - console
+      - debug
+      - effect
+      - unsafe-coerce
+workspace:
+  extraPackages: {}
+  packageSet:
+    registry: 60.5.0
