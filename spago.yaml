@@ -2,7 +2,7 @@ package:
   name: js-fetch
   publish:
     license: MIT
-    version: 0.2.1
+    version: 1.0.0
     location:
       githubOwner: purescript-contrib
       githubRepo: purescript-js-fetch
